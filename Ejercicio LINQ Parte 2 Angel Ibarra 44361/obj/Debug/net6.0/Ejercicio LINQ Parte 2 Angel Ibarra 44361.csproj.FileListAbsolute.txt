@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\bin\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.exe
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\bin\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.deps.json
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\bin\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.runtimeconfig.json
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\bin\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.dll
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\bin\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.pdb
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.AssemblyInfo.cs
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.dll
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\refint\Ejercicio LINQ Parte 2 Angel Ibarra 44361.dll
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.pdb
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\Ejercicio LINQ Parte 2 Angel Ibarra 44361.genruntimeconfig.cache
+C:\Users\angel\Desktop\POO2\LINQ VISUAL STUDIO\Ejercicio LINQ Parte 2 Angel Ibarra 44361\Ejercicio LINQ Parte 2 Angel Ibarra 44361\obj\Debug\net6.0\ref\Ejercicio LINQ Parte 2 Angel Ibarra 44361.dll
